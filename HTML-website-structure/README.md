@@ -1,8 +1,8 @@
 ### HTML page:
 
-read this article on Document and website structure from MDN: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure 
+read this article on Document and website structure from MDN: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
 
-Then you will complete the Project Brief below, sourced from this MDN article: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content 
+Then you will complete the Project Brief below, sourced from this MDN article: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content
 
 Project brief
 For this project, your task is to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it. It needs to have:
@@ -21,4 +21,3 @@ The footer
 You should also:
 
 Apply the provided CSS to the page by adding another link element just below the existing one provided at the start.
-

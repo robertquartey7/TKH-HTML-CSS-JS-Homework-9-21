@@ -1,4 +1,4 @@
-Create a new HTML file within the HTML-recipe directory and name it after the recipe it will contain. For example lasagna.html. You can use the name of your favorite dish or, if you need some inspiration, you can find a recipe to use here: https://www.allrecipes.com/ 
+Create a new HTML file within the HTML-recipe directory and name it after the recipe it will contain. For example lasagna.html. You can use the name of your favorite dish or, if you need some inspiration, you can find a recipe to use here: https://www.allrecipes.com/
 
 Your new recipe page should have the following content:
 
